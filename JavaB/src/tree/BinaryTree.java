@@ -157,6 +157,8 @@ class BinaryTree
 	
 		BTreePrinter.printNode(btree.root);
 		BTreePrinter.printNode(resBtree.root);
+		
+		System.out.println("done job");
 	}
 }
 
