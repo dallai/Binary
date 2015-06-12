@@ -161,6 +161,7 @@ class BinaryTree
 		System.out.println("done job");
 		System.out.println("change 1");
 		System.out.println("change 2");
+		System.out.println("change 3");
 	}
 }
 
